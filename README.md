@@ -28,7 +28,7 @@ This Python script scrapes product information (e.g., name, price, image URL) fr
 
 ### 🏠 Homepage
 
-![Keells Homepage](keels homepage.png)
+![Keells Homepage](keels_homepage.png)
 
 ### 📂 Category Page
 
@@ -36,7 +36,7 @@ This Python script scrapes product information (e.g., name, price, image URL) fr
 
 ### 🧃 Sample Category View
 
-![Category Items](vegetables.png)
+![Category Items](vegetables .png)
 
 > 📁 Make sure to place your screenshots in a `screenshots/` folder for them to display correctly.
 
